@@ -1,5 +1,5 @@
 # ManagedShell
-![ManagedShell](https://github.com/cairoshell/ManagedShell/workflows/ManagedShell/badge.svg) [![Nuget](https://img.shields.io/nuget/v/ManagedShell?color=informational)](https://www.nuget.org/packages/ManagedShell/)
+This is a fork of ![ManagedShell](https://github.com/cairoshell/ManagedShell/workflows/ManagedShell/badge.svg) [![Nuget](https://img.shields.io/nuget/v/ManagedShell?color=informational)](https://www.nuget.org/packages/ManagedShell/)
 
 A library for creating Windows shell replacements using .NET, written in C#.
 
